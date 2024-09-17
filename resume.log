@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.10)  16 SEP 2024 19:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.10)  16 SEP 2024 19:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -447,9 +447,9 @@ LaTeX Font Info:    Font shape `OT1/lato-TLF/m/it' will be
 LaTeX Font Info:    Font shape `OT1/lato-TLF/m/it' will be
 (Font)              scaled to size 10.0pt on input line 7.
 LaTeX Font Info:    Font shape `OT1/lato-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 9.
+(Font)              scaled to size 6.0pt on input line 10.
 LaTeX Font Info:    Font shape `OT1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 9.
+(Font)              scaled to size 10.0pt on input line 10.
 ) (./src/skills.tex
 LaTeX Font Info:    Font shape `OT1/lato-TLF/m/sc' will be
 (Font)              scaled to size 10.95pt on input line 2.
@@ -498,7 +498,7 @@ pe1/typoland/lato/Lato-Italic.pfb></usr/local/texlive/2024/texmf-dist/fonts/typ
 e1/typoland/lato/Lato-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsy6.pfb>
-Output written on resume.pdf (1 page, 121128 bytes).
+Output written on resume.pdf (1 page, 121327 bytes).
 PDF statistics:
  76 PDF objects out of 1000 (max. 8388607)
  57 compressed objects within 1 object stream
